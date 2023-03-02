@@ -17,7 +17,7 @@
     "@testing-library/jest-dom": "^5.0.0",
     "@testing-library/svelte": "^1.11.0",
     "babel-jest": "^24.9.0",
-    "cypress": "^3.8.2",
+    "cypress": "^12.7.0",
     "jest": "^24.9.0",
     "jest-transform-svelte": "^2.1.1",
     "rollup": "^1.20.0",
